@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Archivos que el notebook vuelve a generar en cada ejecución
+outputs/*.png
+outputs/*.npy
+outputs/config_final.json
+outputs/resultados_test.csv
+outputs/robustez.csv
+outputs/por_clase.csv
+
+.DS_Store
+Thumbs.db
+desktop.ini

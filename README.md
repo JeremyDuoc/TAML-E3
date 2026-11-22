@@ -37,7 +37,7 @@ fotos originales con el conjunto de entrenamiento, por lo que su resultado no mi
 ## Ejecución en Google Colab
 
 ```python
-!git clone <URL_DEL_REPOSITORIO> /content/TLY1102-E3
+!git clone https://github.com/JeremyDuoc/TAML-E3 /content/TLY1102-E3
 ```
 
 Luego abrir `/content/TLY1102-E3/notebooks/TLY1102_E3_Pipeline.ipynb` y ejecutar todas las celdas. El notebook
